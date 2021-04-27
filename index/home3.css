@@ -1,0 +1,18 @@
+#h3txt {
+    position: absolute;
+width: 191px;
+height: 67px;
+left: 10px;
+top: 750px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+letter-spacing: 0.5px;
+text-decoration-line: underline;
+
+color: #000000;
+}

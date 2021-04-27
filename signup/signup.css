@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#content {
+  display: flex;
+  justify-content: space-between;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+#signup {
+  display: flex;
+  justify-content: center;
+
+  width: 700px;
+  height: 600px;
+}
+#fname {
+  display: flex;
+  justify-content: space-between;
+}
+.ep {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 500px;
+  height: 600px;
+}
+#ima {
+  display: flex;
+  justify-content: center;
+
+  width: 500px;
+  height: 600px;
+  align-items: center;
+}
+button {
+  background-color: #fffdc6;
+  width: 100px;
+  height: 50px;
+  border: 1px solid black;
+
+  border-radius: 4px !important;
+}
+.acc {
+  font-weight: bold;
+}

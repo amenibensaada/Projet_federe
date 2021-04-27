@@ -1,0 +1,64 @@
+/********************************************/
+#re {
+  /* width: 1000px;
+  height: 912px; */
+  margin-top: 0px;
+  margin-left: 100px;
+  /* gray */
+
+  /* box-sizing: border-box; */
+  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+  /* border-radius: 34px; */
+}
+/***************************************/
+
+form {
+  margin: 0 auto;
+  max-width: 10000px;
+}
+#imageprofil {
+  float: right;
+  width: 200px;
+  margin-left: 900px;
+  margin-top: 10px;
+  padding-top: 50px;
+  padding-right: 50px;
+}
+
+input,
+textarea {
+  border: none;
+  width: 55%;
+  padding: 15px 10px;
+  margin: 1px 0;
+  font-size: 1.2em;
+  font-family: "Advent Pro", sans-serif;
+  /* border-radius: 8px; */
+}
+
+textarea {
+  height: 120px;
+}
+
+button {
+  font-size: 1.5em;
+  background-color: #fffae1;
+  border: none;
+  width: 45%;
+  padding: 15px 10px;
+  margin: 1px 0;
+  font-size: 1.2em;
+  font-family: "Advent Pro", sans-serif;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #e4d58d;
+  color: #797873;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+body {
+  display: flex;
+}
